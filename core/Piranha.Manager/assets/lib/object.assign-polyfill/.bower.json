@@ -1,0 +1,24 @@
+{
+  "name": "object.assign-polyfill",
+  "homepage": "https://github.com/DasRed/js-object.assign-polyfill",
+  "main": "Polyfill for Object.assign if needed.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "version": "1.0.3",
+  "_release": "1.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.3",
+    "commit": "c3dcef387d1ac6fbee4924b142d42197dcdde246"
+  },
+  "_source": "https://github.com/DasRed/js-object.assign-polyfill.git",
+  "_target": "1.0.3",
+  "_originalSource": "object.assign-polyfill"
+}
